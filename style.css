@@ -15,22 +15,31 @@ nav{
     display: flex;
     background-color: #5C9434;
     justify-content: space-around;
+    height: 100px;
+    align-items: center;
 }
 
 nav a{
     padding: 10px 0;
     font-weight: bold;
     font-size: 20px;
-    color: green;
+    color: black;
 }
 
 #projet{
     margin-top: 5%;
     margin-left: 50px;
+    margin-right: 50px;
     display:flex;
+    background-color: beige;
     
 }
 
+#text-projet{
+    flex-direction: column;
+    align-self: center;
+    font-size: 25px;
+}
 
 
 

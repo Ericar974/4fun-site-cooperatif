@@ -100,3 +100,9 @@ nav a{
 .cards .spanReseaux {
     font-style: italic;
 }
+
+.cards hr {
+    width: 150px;
+    border: 1px solid darkred;
+    margin: 0 auto;
+}

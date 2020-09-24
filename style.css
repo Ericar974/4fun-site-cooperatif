@@ -27,4 +27,6 @@ nav a{
 #projet{
     margin-top: 5%;
     margin-left: 50px;
+    display:flex;
+    
 }

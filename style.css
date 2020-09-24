@@ -27,8 +27,14 @@ nav a{
 #projet{
     margin-top: 5%;
     margin-left: 50px;
-    display:flex;
-    
+    display:flex;    
+}
+
+#membre{
+    margin-top: 5%;
+    margin-left: 50px;
+    display:flex;  
+    flex-direction: row-reverse;  
 }
 
 

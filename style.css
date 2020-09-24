@@ -27,11 +27,21 @@ nav a{
 }
 
 #projet{
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    display:flex;
-    background-color: beige;
+    margin: 2% 40px 0 40px;
+    display:flex; 
+    background-color: beige;   
+}
+
+#membre{
+    margin: 2% 40px 0 40px;
+    display:flex;   
+    background-color: beige;    
+}
+
+#text-membre{
+    flex-direction: column;
+    align-self: center;
+    font-size: 25px;
     
 }
 
@@ -41,7 +51,7 @@ nav a{
     font-size: 25px;
 }
 
-#h1-main{
+.h1-main{
     margin-top: 25px;
     text-align: center;
 }
